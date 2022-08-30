@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Restaurant_Gericht/static/css/main.c80f6658.chunk.css",
+    "main.js": "/Restaurant_Gericht/static/js/main.c92ef304.chunk.js",
+    "main.js.map": "/Restaurant_Gericht/static/js/main.c92ef304.chunk.js.map",
+    "runtime-main.js": "/Restaurant_Gericht/static/js/runtime-main.0a070e44.js",
+    "runtime-main.js.map": "/Restaurant_Gericht/static/js/runtime-main.0a070e44.js.map",
+    "static/js/2.a766e07b.chunk.js": "/Restaurant_Gericht/static/js/2.a766e07b.chunk.js",
+    "static/js/2.a766e07b.chunk.js.map": "/Restaurant_Gericht/static/js/2.a766e07b.chunk.js.map",
+    "index.html": "/Restaurant_Gericht/index.html",
+    "static/css/main.c80f6658.chunk.css.map": "/Restaurant_Gericht/static/css/main.c80f6658.chunk.css.map",
+    "static/js/2.a766e07b.chunk.js.LICENSE.txt": "/Restaurant_Gericht/static/js/2.a766e07b.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/Restaurant_Gericht/static/media/G.b571eb82.png",
+    "static/media/award01.361a4bc4.png": "/Restaurant_Gericht/static/media/award01.361a4bc4.png",
+    "static/media/award02.8bbdd514.png": "/Restaurant_Gericht/static/media/award02.8bbdd514.png",
+    "static/media/award03.3f7ee934.png": "/Restaurant_Gericht/static/media/award03.3f7ee934.png",
+    "static/media/award05.48a7f520.png": "/Restaurant_Gericht/static/media/award05.48a7f520.png",
+    "static/media/App.css": "/Restaurant_Gericht/static/media/bg.3d421b1b.png",
+    "static/media/chef.02d6c5b6.png": "/Restaurant_Gericht/static/media/chef.02d6c5b6.png",
+    "static/media/findus.585c393c.png": "/Restaurant_Gericht/static/media/findus.585c393c.png",
+    "static/media/gallery01.f2cbffe3.png": "/Restaurant_Gericht/static/media/gallery01.f2cbffe3.png",
+    "static/media/gallery02.27663bd9.png": "/Restaurant_Gericht/static/media/gallery02.27663bd9.png",
+    "static/media/gallery03.b2d50180.png": "/Restaurant_Gericht/static/media/gallery03.b2d50180.png",
+    "static/media/gallery04.c36a695f.png": "/Restaurant_Gericht/static/media/gallery04.c36a695f.png",
+    "static/media/knife.1121c0a5.png": "/Restaurant_Gericht/static/media/knife.1121c0a5.png",
+    "static/media/laurels.e7608286.png": "/Restaurant_Gericht/static/media/laurels.e7608286.png",
+    "static/media/logo.0286194c.png": "/Restaurant_Gericht/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/Restaurant_Gericht/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.a8287c67.png": "/Restaurant_Gericht/static/media/menu.a8287c67.png",
+    "static/media/overlaybg.165362ee.png": "/Restaurant_Gericht/static/media/overlaybg.165362ee.png",
+    "static/media/sign.9bf0bd90.png": "/Restaurant_Gericht/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.b5681c86.svg": "/Restaurant_Gericht/static/media/spoon.b5681c86.svg",
+    "static/media/welcome.d724eb98.png": "/Restaurant_Gericht/static/media/welcome.d724eb98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a070e44.js",
+    "static/js/2.a766e07b.chunk.js",
+    "static/css/main.c80f6658.chunk.css",
+    "static/js/main.c92ef304.chunk.js"
+  ]
+}
